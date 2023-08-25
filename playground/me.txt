@@ -1,5 +1,0 @@
-{{#user}}
-Name: Gahinath
-Skills: HTML, CSS, JS, Next.js
-Email: gahinathmadake@gmail.com
-{{/user}}
